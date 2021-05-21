@@ -1,0 +1,19 @@
+<permissions>
+    <!-- zhangwei1@realmeUI, 2020/01/07, Add for realme Lab. -->
+    <feature name="realme.laboratory.support"/>
+    <!-- wuyulong@realmeOS.APP.SystemUI.UserId#2544607, 2019/11/18, add for display, only for oled screen-->
+    <feature name="oppo.common.support.curved.display" />
+    <!-- gouwei@realmeUI, 2020/02/17, Add for realme freeze. -->
+    <feature name="com.realme.freeze.support" />
+    <!-- mazhiqiang@realmeUI, 2020/06/24, Add for list optimize -->
+    <feature name="realme.common.listoptimize.support" />
+    <!-- mazhiqiang@realmeUI, 2020/07/29, Add for realme sleep -->
+    <feature name="realme.common.deepsleep.support" />
+    <!-- wuyulong@realmeOS.APP.SystemUI.UserId#, 2020/02/18, add for display keyguard charge decimal-->
+    <feature name="realme.support.display.charge.decimal" />
+    <feature name="realme.support.language.uncheck_IL_default" />
+    <!-- wangcan@realmeUI, 2020/06/24, Add for gesture-up gesture -->
+    <feature name="oplus.software.gestureup.support" />
+    <!-- Zhiqiang.Ma@ROM, 2020/11/02, add for thermal manager -->
+    <feature name="oppo.feature.thermal.modid" />
+</permissions>

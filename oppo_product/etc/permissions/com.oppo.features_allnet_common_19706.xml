@@ -1,0 +1,35 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<!-- COLOR_EDIT.  add oppo.screen.hovering.support ;remove oppo.narrow.frame -->
+<permissions>
+    <!-- ifdef VENDOR_EDIT -->
+    <!-- Haifeng.zhu@AD.Fingerprint.1952414, 2019/06/20, add for fingerpirnt feature -->
+    <feature name="android.hardware.fingerprint" />
+    <feature name="oppo.back.touch.fingerprint.sensor" />
+    <feature name="oppo.hardware.fingerprint.optical.support" />
+    <!-- endif VENDOR_EDIT -->
+
+    <!-- ifdef VENDOR_EDIT -->
+    <!-- LiTong@ROM.SystemUi.2403096, 2019/10/14, add for curved display, only for curved screen-->
+    <!-- <feature name="oppo.common.support.curved.display" /> -->
+    <!-- endif VENDOR_EDIT -->
+
+    <!-- ifdef VENDOR_EDIT -->
+    <!-- Guofu.Yang@PSW.AD.Wms.2458273, 2019/10/24, Add for 120Hz screen support-->
+    <feature name="oppo.display.screen.90hz.support"/>
+    <!-- endif VENDOR_EDIT -->
+
+    <!-- Jianrong.Zheng@PSW.AD.EngineeringMode.0, 2019/05/09, Add for global aftersale -->
+    <feature name="oppo.aftersale.global.support" />
+    <!-- ifdef VENDOR_EDIT -->
+    <!-- Yisen.Xie@RM.MM.MediaServer.Feature, 2019/10/29, Add for frc support -->
+    <feature name="realme.hqv.frc.support"/>
+    <!-- endif VENDOR_EDIT -->
+    <!-- yangmingjin@BSP, 2019/07/17, add for hypnus benchmark perf mode  support-->
+    <feature name="realme.hypnus.perf.benchmark.support"/>
+    <!-- ifdef VENDOR_EDIT -->
+    <!-- Qiang.shao@PSW.AD.OppoFeature.0000, 2020/02/14, Add for screen sticking feature -->
+    <feature name="oppo.display.screen.sticking.support" />
+    <!-- endif VENDOR_EDIT -->
+    <!-- Enable Zero Touch Provisioning support. -->
+    <feature name="com.google.android.feature.ZERO_TOUCH" />
+</permissions>
