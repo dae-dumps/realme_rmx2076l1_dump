@@ -1,0 +1,3 @@
+com.google.android.apps.googleassistant
+com.google.android.apps.photos
+com.google.ar.lens

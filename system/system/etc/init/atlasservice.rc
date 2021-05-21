@@ -1,0 +1,4 @@
+service atlasservice /system/bin/atlasservice
+    class core
+    user root
+    group root graphics drmrpc audio media readproc sdcard_rw

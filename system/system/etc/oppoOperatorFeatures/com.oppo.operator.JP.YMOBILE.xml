@@ -1,0 +1,16 @@
+<!-- This file is used by Exp Region: IR.  DO NOT MODIFY. -->
+<permissions>
+  <feature name="oppo.multiuser.entry.unsupport" />
+  <feature name="coloros.customize.systemui.virtualkey_recent_right_of_home" />
+  <feature name="coloros.customize.guardelf.ymobile.keepalive" />
+  <feature name="oppo.keyguard.show.pinpukremains" />
+  <feature name="oppo.keyguard.show.operator.notice" />
+  <feature name="coloros.customize.keyguard.hide_puk_input" />
+  <feature name="oppo.default.browser.chrome" />
+  <feature name="oplus.logkit.disable.access_permissions" />
+  <feature name="oppo.launcher.drawer_mode.default" />
+  <feature name="oppo.settings.mms.emergency.support" />
+  <feature name="coloros.customize.settings.gota.update.support" />
+  <feature name="oppo.oppo_disaplay_calculate_data_traffic.def.off" />
+  <feature name="coloros.customize.bootreg.hide_ota_update_preference"/>
+</permissions>
